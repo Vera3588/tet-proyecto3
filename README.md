@@ -11,8 +11,6 @@
 <texto descriptivo>
 Automatizar procesos ETL mediante Steps para la ingestión de los datos, posteriormente manipularlos a las reglas de negocio que se tuvieron consideradas para el laboratorio 3, y almacenarlos posteriormente en una zona de resultados, con la posibilidad de realizar consultas externaas
 
-## 1.2. Que aspectos NO cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
-
 ## Requisitos completados
 <texto descriptivo>
 •	Se creo pipeline para la ingestión de los datos recibidos del covid ya sea por base de datos, o ruta de Archivo.
